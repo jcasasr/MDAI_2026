@@ -1,6 +1,6 @@
 # Cross-Domain Single Lesion Localization in Medical Images via Deep Reinforcement Learning
 
-- Martina Carretta-Brugueras, Jorge Bernal, Jordi Casas Roma. "Cross-Domain Single Lesion Localization in Medical Images via Deep Reinforcement Learning”. In: Torra, V., Narukawa, Y., Reig, R. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2026. Lecture Notes in Artificial Intelligence, vol 16924. Springer, Cham. [DOI](https://doi.org/xxx)
+- Martina Carretta-Brugueras, Jorge Bernal, Jordi Casas Roma. "Cross-Domain Single Lesion Localization in Medical Images via Deep Reinforcement Learning”. In: Torra, V., Narukawa, Y., Reig, R. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2026. Lecture Notes in Artificial Intelligence, vol 16924. Springer, Cham. [[DOI](https://doi.org/10.1007/978-3-032-37976-4_8)]([https://doi.org/xxx](https://doi.org/10.1007/978-3-032-37976-4_8))
 
 ## Data
 In this project we used MRI scans from BraTS 2020 and colonoscopies from PolypSegm_ASH. See statistics in: 
